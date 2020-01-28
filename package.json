@@ -1,0 +1,24 @@
+{
+  "name": "mockjsondata",
+  "version": "1.0.0",
+  "description": "Use faker.js, json-schema-faker, and json-server to create and serve fake data from a json server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcorn2/mockJSONData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcorn2/mockJSONData/issues"
+  },
+  "homepage": "https://github.com/jcorn2/mockJSONData#readme",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-schema-faker": "^0.5.0-rc23",
+    "json-server": "^0.15.1"
+  }
+}
